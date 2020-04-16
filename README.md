@@ -20,12 +20,18 @@ I'll try to add an article or two per week. If there's something missing and you
 1. [Custom states](https://github.com/ZieIony/GuideToCustomViews/wiki/Custom-states)
 1. [State saving](https://github.com/ZieIony/GuideToCustomViews/wiki/State-saving)
 1. [Edit mode](https://github.com/ZieIony/GuideToCustomViews/wiki/Edit-mode)
+1. [Drawables](https://github.com/ZieIony/GuideToCustomViews/wiki/Drawables)
 
 ##### Attributes and styles
 
 1. [Using attributes](https://github.com/ZieIony/GuideToCustomViews/wiki/Using-attributes)
 1. [Custom attributes](https://github.com/ZieIony/GuideToCustomViews/wiki/Custom-attributes)
 1. [Custom layout attributes](https://github.com/ZieIony/GuideToCustomViews/wiki/Custom-layout-attributes)
+
+##### Accessibility
+
+1. [Basic accessibility](https://github.com/ZieIony/GuideToCustomViews/wiki/Basic-accessibility)
+1. [Content description and events](https://github.com/ZieIony/GuideToCustomViews/wiki/Content-description-and-events)
 
 ### Case studies
 
@@ -37,7 +43,7 @@ A progress bar that also has a text. The text should be drawn in one color on th
 
 See: [guide](https://github.com/ZieIony/GuideToCustomViews/wiki/ProgressTextView), [code](https://github.com/ZieIony/GuideToCustomViews/tree/master/progresstextview).
 
-##### GraphView
+##### ChartView
 
 <img src="https://github.com/ZieIony/GuideToCustomViews/blob/master/images/chartview.png" width="25%" height="25%"/>
 
@@ -66,3 +72,13 @@ An EditText with support for an invalid state attribute.
 Topics covered: custom states.
 
 See: [guide](https://github.com/ZieIony/GuideToCustomViews/wiki/InvalidEditText), [code](https://github.com/ZieIony/GuideToCustomViews/tree/master/invalidedittext).
+
+##### MoodToggle
+
+<img src="https://github.com/ZieIony/GuideToCustomViews/blob/master/images/moodtoggle.png" width="25%" height="25%"/>
+
+A very simple toggle with accessibility support.
+
+Topics covered: basic accessibility.
+
+See: [guide](https://github.com/ZieIony/GuideToCustomViews/wiki/MoodToggle), [code](https://github.com/ZieIony/GuideToCustomViews/tree/master/moodtoggle).
